@@ -294,3 +294,14 @@ code {
     border-right-color: var(--border);
   }
 }
+
+.edit-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.edit-row input {
+  padding: 5px;
+}
